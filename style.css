@@ -1,0 +1,69 @@
+body {
+    display: flex;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+}
+
+.left{
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.left, .content{
+    padding: 30px;
+    text-align: center;
+}
+
+.icon-container>img{
+    width: 300px;
+}
+
+.right{
+    background-color: #575a85;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+.right .content {
+    text-align: center;
+    color: #b8bccc;
+}
+#ipAddress{
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #B8BCCC;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+  
+button:hover {
+    background-color: #000000;
+    color: #B8BCCC;
+}
+
+h1,h2{
+    margin-bottom: 10px;
+}
+p{
+    color: #B8BCCC;
+}
+
+.icon-container {
+    margin-top: 20px;
+}
+
+
