@@ -1,6 +1,6 @@
 # FE3-MT-postofficeapp
 
-Tasks outlined:
+# Tasks outlined:
 
 1. Use JS to get user's IP address.
 2. Successfully retrieve user's IP address using JS and handle errors appropriately.
