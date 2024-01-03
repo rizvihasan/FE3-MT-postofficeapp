@@ -1,6 +1,6 @@
 # postoffice locator
 
-# Tasks outlined:
+# order of execution:
 
 1. Use JS to get user's IP address.
 2. Successfully retrieve user's IP address using JS and handle errors appropriately.
