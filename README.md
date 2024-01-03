@@ -1,4 +1,4 @@
-# FE3-MT-postofficeapp
+# postoffice locator
 
 # Tasks outlined:
 
